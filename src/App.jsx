@@ -24,7 +24,7 @@ function App() {
     <div
   className="fixed inset-0 -z-10 bg-cover bg-[position:60%_center] md:bg-center"
   style={{
-    backgroundImage: "url('/workspace.png')"
+   backgroundImage: `url(${import.meta.env.BASE_URL}workspace.png)`,
         }}
     />
 
