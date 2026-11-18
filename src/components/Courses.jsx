@@ -25,8 +25,8 @@ const certifications = [
     title: "Anaconda Python for Data Science Professional Certificate",
     issuer: "Anaconda / LinkedIn Learning",
     date: "",
-    status: "In Progress",
-    url: ""
+    status: "Completed",
+    url: "https://www.linkedin.com/learning/certificates/634d2ab0a444db8c5391f1c262ceb541d5a6df5a65a173be1b25d442cdda0865?trk=share_certificate"
   }
 ];
 
